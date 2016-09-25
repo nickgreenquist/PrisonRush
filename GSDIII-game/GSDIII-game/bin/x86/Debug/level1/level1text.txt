@@ -1,0 +1,5 @@
+Treasure chests contain money that can be used to upgrade your character later
+Hurry! The ship will self-destruct if you do not complete levels quick enough!
+"AD" keys move your character left and right
+Press the "W" key to jump! Jump on platforms to progress in levels
+Doors like these progress you to the next level

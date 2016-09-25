@@ -1,0 +1,14 @@
+6
+40
+1
+300
+X
+true
+next
+5
+68
+5
+65
+Y
+false
+end

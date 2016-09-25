@@ -1,0 +1,1429 @@
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+d:\users\tlc\documents\visual studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII-game\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+D:\Users\TLC\Downloads\documents-export-2013-03-20\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+D:\Users\TLC\Downloads\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+C:\Users\Dylan\Documents\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+E:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground Shop.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround Shop.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground Shop.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround Shop.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground Shop.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround Shop.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+K:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.csprojResolveAssemblyReference.cache
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+H:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+F:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+K:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+I:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+G:\GSDIII GAME\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Laugh.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorShop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Dead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnemyDead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\redbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\healthBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\greenBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\FriendSprite.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ericface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\dylanface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\nickface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\timface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\doorTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BossChris.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorShop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\redbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\healthBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\greenBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\FriendSprite.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ericface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\dylanface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\nickface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\timface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\doorTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BossChris.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Laugh.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Dead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnemyDead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME - Copy\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorShop.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\redbox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\healthBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\greenBox.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\FriendSprite.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ericface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\dylanface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\nickface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\timface.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\doorTile.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BossChris.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion2.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Laugh.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Dead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnemyDead.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.wma
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\thanks.xnb
+F:\College\Programming\Visual Studio 2010\Projects\GSDIII GAME_REVISION\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorShop.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\redbox.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\healthBox.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\greenBox.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\FriendSprite.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ericface.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\dylanface.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\nickface.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\timface.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\doorTile.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BossChris.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\thanks.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion2.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Laugh.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Dead.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnemyDead.xnb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.wma
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.exe
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\GSDIII-game.pdb
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.csprojResolveAssemblyReference.cache
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.exe
+D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\obj\x86\Debug\GSDIII-game.pdb

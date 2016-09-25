@@ -1,0 +1,1291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Mario.png</Source>
+      <Name>Mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Mario.xnb</Output>
+      <Time>1980-01-01T00:00:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>1980-01-01T00:00:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Moving Sprites.png</Source>
+      <Name>Character Moving Sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites.xnb</Output>
+      <Time>2013-03-20T16:26:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>All In One BG.png</Source>
+      <Name>All In One BG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\All In One BG.xnb</Output>
+      <Time>2013-03-20T16:26:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor Tile 1.png</Source>
+      <Name>Floor Tile 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 1.xnb</Output>
+      <Time>2013-03-20T16:26:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor Tile 2.png</Source>
+      <Name>Floor Tile 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 2.xnb</Output>
+      <Time>2013-03-20T16:26:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor Tile 3.png</Source>
+      <Name>Floor Tile 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 3.xnb</Output>
+      <Time>2013-03-20T16:26:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor Tile 4.png</Source>
+      <Name>Floor Tile 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Floor Tile 4.xnb</Output>
+      <Time>2013-03-20T16:26:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2013-03-24T14:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Button Pressed.png</Source>
+      <Name>Button Pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Pressed.xnb</Output>
+      <Time>2013-03-24T14:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2013-03-24T14:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Capsule Full.png</Source>
+      <Name>Capsule Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full.xnb</Output>
+      <Time>2013-04-07T13:03:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Capsule.png</Source>
+      <Name>Capsule</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule.xnb</Output>
+      <Time>2013-04-07T13:03:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Face.png</Source>
+      <Name>Character Face</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Face.xnb</Output>
+      <Time>2013-03-24T14:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Coin.png</Source>
+      <Name>Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Time>2013-03-24T14:47:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy Spritesheet.png</Source>
+      <Name>Enemy Spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Enemy Spritesheet.xnb</Output>
+      <Time>2013-03-24T14:47:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Foreground.png</Source>
+      <Name>Foreground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground.xnb</Output>
+      <Time>2013-04-25T10:30:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Game Over Text.png</Source>
+      <Name>Game Over Text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Game Over Text.xnb</Output>
+      <Time>2013-03-24T14:47:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverBack.png</Source>
+      <Name>GameOverBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GameOverBack.xnb</Output>
+      <Time>2013-03-24T14:47:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Pointer.png</Source>
+      <Name>Menu Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Menu Pointer.xnb</Output>
+      <Time>2013-03-24T14:47:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MiddleGround.png</Source>
+      <Name>MiddleGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround.xnb</Output>
+      <Time>2013-03-24T14:47:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Title Screen Options.png</Source>
+      <Name>Title Screen Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen Options.xnb</Output>
+      <Time>2013-03-24T14:47:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Title Screen.png</Source>
+      <Name>Title Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Title Screen.xnb</Output>
+      <Time>2013-05-03T18:55:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword.png</Source>
+      <Name>Sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2013-03-29T10:39:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SwordGet.png</Source>
+      <Name>SwordGet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordGet.xnb</Output>
+      <Time>2013-03-29T10:32:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Turret.png</Source>
+      <Name>Turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Turret.xnb</Output>
+      <Time>2013-03-29T10:32:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Burst.png</Source>
+      <Name>Burst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Burst.xnb</Output>
+      <Time>2013-03-29T10:32:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2013-03-29T15:13:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spike.png</Source>
+      <Name>Spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spike.xnb</Output>
+      <Time>2013-03-29T15:20:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2013-04-02T16:42:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spikes.png</Source>
+      <Name>Spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Spikes.xnb</Output>
+      <Time>2013-04-03T16:25:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gun.png</Source>
+      <Name>gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\gun.xnb</Output>
+      <Time>2013-04-09T10:48:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2013-04-14T15:18:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI.png</Source>
+      <Name>UI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\UI.xnb</Output>
+      <Time>2013-04-14T15:19:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>In Game Main.png</Source>
+      <Name>In Game Main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Main.xnb</Output>
+      <Time>2013-05-03T18:55:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>In Game Options.png</Source>
+      <Name>In Game Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\In Game Options.xnb</Output>
+      <Time>2013-04-07T11:47:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lives.png</Source>
+      <Name>Lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Lives.xnb</Output>
+      <Time>2013-04-07T12:56:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet2.png</Source>
+      <Name>Bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bullet2.xnb</Output>
+      <Time>2013-03-24T15:27:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character Moving Sprites - Gun.png</Source>
+      <Name>Character Moving Sprites - Gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Character Moving Sprites - Gun.xnb</Output>
+      <Time>2013-04-07T17:10:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chest1.png</Source>
+      <Name>chest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest1.xnb</Output>
+      <Time>2013-04-07T18:21:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chest2.png</Source>
+      <Name>chest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest2.xnb</Output>
+      <Time>2013-04-07T18:21:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chest3.png</Source>
+      <Name>chest3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest3.xnb</Output>
+      <Time>2013-04-07T18:21:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chest4.png</Source>
+      <Name>chest4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\chest4.xnb</Output>
+      <Time>2013-04-07T18:21:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GunRotate.png</Source>
+      <Name>GunRotate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GunRotate.xnb</Output>
+      <Time>2013-04-09T10:46:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bazooka.png</Source>
+      <Name>Bazooka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka.xnb</Output>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Button Up.png</Source>
+      <Name>Button Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Button Up.xnb</Output>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NewTile.png</Source>
+      <Name>NewTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\NewTile.xnb</Output>
+      <Time>2013-04-10T17:14:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Rpg Bullet.png</Source>
+      <Name>Rpg Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Bullet.xnb</Output>
+      <Time>2013-04-10T16:31:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Rpg Rotate.png</Source>
+      <Name>Rpg Rotate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Rpg Rotate.xnb</Output>
+      <Time>2013-04-10T16:31:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Door.png</Source>
+      <Name>Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door.xnb</Output>
+      <Time>2013-04-10T17:14:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>flame.png</Source>
+      <Name>flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\flame.xnb</Output>
+      <Time>2013-04-10T17:37:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball.png</Source>
+      <Name>Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Time>2013-04-10T17:37:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pistol.png</Source>
+      <Name>Pistol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol.xnb</Output>
+      <Time>2013-04-12T12:28:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EnergyBar.png</Source>
+      <Name>EnergyBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnergyBar.xnb</Output>
+      <Time>2013-04-14T14:42:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurstMeter.png</Source>
+      <Name>BurstMeter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeter.xnb</Output>
+      <Time>2013-04-14T15:18:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurstMeterInside.png</Source>
+      <Name>BurstMeterInside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstMeterInside.xnb</Output>
+      <Time>2013-04-14T15:18:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fire.png</Source>
+      <Name>Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Fire.xnb</Output>
+      <Time>2013-04-14T15:18:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame Tile.png</Source>
+      <Name>Flame Tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Flame Tile.xnb</Output>
+      <Time>2013-04-14T15:18:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Foreground 2.png</Source>
+      <Name>Foreground 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 2.xnb</Output>
+      <Time>2013-04-14T15:18:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Machine Gun Power.png</Source>
+      <Name>Machine Gun Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun Power.xnb</Output>
+      <Time>2013-04-14T15:18:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Machine Gun.png</Source>
+      <Name>Machine Gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Machine Gun.xnb</Output>
+      <Time>2013-04-14T15:19:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MiddleGround 2.png</Source>
+      <Name>MiddleGround 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 2.xnb</Output>
+      <Time>2013-04-14T15:19:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop.png</Source>
+      <Name>Shop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop.xnb</Output>
+      <Time>2013-04-14T15:19:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bazooka Power.png</Source>
+      <Name>Bazooka Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Bazooka Power.xnb</Output>
+      <Time>2013-04-14T15:38:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss.png</Source>
+      <Name>Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss.xnb</Output>
+      <Time>2013-04-22T23:14:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pistol Power.png</Source>
+      <Name>Pistol Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Pistol Power.xnb</Output>
+      <Time>2013-04-14T15:38:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gun Power.png</Source>
+      <Name>Gun Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun Power.xnb</Output>
+      <Time>2013-04-14T15:38:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion.png</Source>
+      <Name>Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion.xnb</Output>
+      <Time>2013-04-14T16:18:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop2.png</Source>
+      <Name>Shop2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shop2.xnb</Output>
+      <Time>2013-04-17T17:56:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Door1.png</Source>
+      <Name>Door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Door1.xnb</Output>
+      <Time>2013-05-06T17:39:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Background2.png</Source>
+      <Name>Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background2.xnb</Output>
+      <Time>2013-04-19T20:24:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Foreground 3.png</Source>
+      <Name>Foreground 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 3.xnb</Output>
+      <Time>2013-04-19T20:20:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MiddleGround 3.png</Source>
+      <Name>MiddleGround 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 3.xnb</Output>
+      <Time>2013-04-19T20:20:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DamageBurst.png</Source>
+      <Name>DamageBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DamageBurst.xnb</Output>
+      <Time>2013-04-20T00:13:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Enemy Spritesheet.png</Source>
+      <Name>Super Enemy Spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Super Enemy Spritesheet.xnb</Output>
+      <Time>2013-04-21T15:24:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss2.png</Source>
+      <Name>Boss2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Boss2.xnb</Output>
+      <Time>2013-04-21T16:13:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LivesLeft.png</Source>
+      <Name>LivesLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft.xnb</Output>
+      <Time>2013-04-24T17:06:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LivesLeft2.png</Source>
+      <Name>LivesLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\LivesLeft2.xnb</Output>
+      <Time>2013-04-24T17:06:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sign.png</Source>
+      <Name>Sign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Sign.xnb</Output>
+      <Time>2013-05-03T19:16:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteRectangle.png</Source>
+      <Name>WhiteRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\WhiteRectangle.xnb</Output>
+      <Time>2013-04-24T17:43:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textbox.png</Source>
+      <Name>textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\textbox.xnb</Output>
+      <Time>2013-05-06T16:21:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Foreground 4.png</Source>
+      <Name>Foreground 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Foreground 4.xnb</Output>
+      <Time>2013-05-03T11:22:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MiddleGround 4.png</Source>
+      <Name>MiddleGround 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\MiddleGround 4.xnb</Output>
+      <Time>2013-05-03T11:22:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Background3.png</Source>
+      <Name>Background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Background3.xnb</Output>
+      <Time>2013-05-03T11:22:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Capsule 2.png</Source>
+      <Name>Capsule 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule 2.xnb</Output>
+      <Time>2013-05-03T11:22:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Capsule Full2.png</Source>
+      <Name>Capsule Full2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Capsule Full2.xnb</Output>
+      <Time>2013-05-03T11:22:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Armor.png</Source>
+      <Name>Armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Armor.xnb</Output>
+      <Time>2013-05-03T11:45:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DoorShop.png</Source>
+      <Name>DoorShop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorShop.xnb</Output>
+      <Time>2013-05-06T17:39:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redbox.jpg</Source>
+      <Name>redbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\redbox.xnb</Output>
+      <Time>2013-05-08T12:29:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthBox.png</Source>
+      <Name>healthBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\healthBox.xnb</Output>
+      <Time>2013-05-08T12:46:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBox.png</Source>
+      <Name>greenBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\greenBox.xnb</Output>
+      <Time>2013-05-08T12:58:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wall1.png</Source>
+      <Name>wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall1.xnb</Output>
+      <Time>2013-05-08T16:46:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wall2.png</Source>
+      <Name>wall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\wall2.xnb</Output>
+      <Time>2013-05-08T16:46:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FriendSprite.png</Source>
+      <Name>FriendSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\FriendSprite.xnb</Output>
+      <Time>2013-05-08T16:53:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ericface.jpg</Source>
+      <Name>ericface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ericface.xnb</Output>
+      <Time>2013-05-08T17:02:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dylanface.jpg</Source>
+      <Name>dylanface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\dylanface.xnb</Output>
+      <Time>2013-05-08T17:02:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>nickface.jpg</Source>
+      <Name>nickface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\nickface.xnb</Output>
+      <Time>2013-05-08T17:02:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>timface.png</Source>
+      <Name>timface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\timface.xnb</Output>
+      <Time>2013-05-08T17:02:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>doorTile.png</Source>
+      <Name>doorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\doorTile.xnb</Output>
+      <Time>2013-05-08T17:22:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BossChris.png</Source>
+      <Name>BossChris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BossChris.xnb</Output>
+      <Time>2013-05-08T17:56:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stick.png</Source>
+      <Name>stick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick.xnb</Output>
+      <Time>2013-05-09T22:56:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>thanks.png</Source>
+      <Name>thanks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\thanks.xnb</Output>
+      <Time>2013-05-09T23:05:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stick2.jpg</Source>
+      <Name>stick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\stick2.xnb</Output>
+      <Time>2013-05-09T23:12:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-04-23T10:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2013-04-23T10:34:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Theme2.mp3</Source>
+      <Name>Theme2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Theme2.wma</Extra>
+      <Time>2013-04-03T16:25:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Battle3.mp3</Source>
+      <Name>Battle3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Battle3.wma</Extra>
+      <Time>2013-04-03T16:26:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameover1.mp3</Source>
+      <Name>Gameover1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gameover1.wma</Extra>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>117 PLANET ZERARD.mp3</Source>
+      <Name>117 PLANET ZERARD</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\117 PLANET ZERARD.wma</Extra>
+      <Time>2013-04-18T14:42:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Song2.mp3</Source>
+      <Name>Song2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Song2.wma</Extra>
+      <Time>2013-04-19T20:45:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>305 Dynamite Rider.mp3</Source>
+      <Name>305 Dynamite Rider</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\305 Dynamite Rider.wma</Extra>
+      <Time>2013-04-19T20:59:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>201 THE KING OF LEGEND.mp3</Source>
+      <Name>201 THE KING OF LEGEND</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\201 THE KING OF LEGEND.wma</Extra>
+      <Time>2013-04-25T10:39:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>11. Trailblazer.mp3</Source>
+      <Name>11. Trailblazer</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\11. Trailblazer.wma</Extra>
+      <Time>2013-05-05T14:28:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>221_electronical_parade.mp3</Source>
+      <Name>221_electronical_parade</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\221_electronical_parade.wma</Extra>
+      <Time>2013-05-08T16:42:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>creditsong.mp3</Source>
+      <Name>creditsong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\creditsong.wma</Extra>
+      <Time>2013-05-08T17:56:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>22 The Old One.mp3</Source>
+      <Name>22 The Old One</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.xnb</Output>
+      <Extra>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\22 The Old One.wma</Extra>
+      <Time>2013-05-08T18:28:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BurstPower.wav</Source>
+      <Name>BurstPower</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\BurstPower.xnb</Output>
+      <Time>2013-04-07T10:14:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Die.wav</Source>
+      <Name>Die</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Die.xnb</Output>
+      <Time>2013-04-07T10:14:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GetSword.wav</Source>
+      <Name>GetSword</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\GetSword.xnb</Output>
+      <Time>2013-04-07T10:14:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SwordAttack.wav</Source>
+      <Name>SwordAttack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\SwordAttack.xnb</Output>
+      <Time>2013-04-07T10:14:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Down1.wav</Source>
+      <Name>Down1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Down1.xnb</Output>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Equip1.wav</Source>
+      <Name>Equip1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Equip1.xnb</Output>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gun1.wav</Source>
+      <Name>Gun1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Gun1.xnb</Output>
+      <Time>2013-04-10T16:31:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Item3.wav</Source>
+      <Name>Item3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Item3.xnb</Output>
+      <Time>2013-04-10T16:48:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Thunder12.wav</Source>
+      <Name>Thunder12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Thunder12.xnb</Output>
+      <Time>2013-04-10T17:14:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Launch.wav</Source>
+      <Name>Launch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Launch.xnb</Output>
+      <Time>2013-04-18T14:58:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Shrink.wav</Source>
+      <Name>Shrink</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Shrink.xnb</Output>
+      <Time>2013-04-18T14:58:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSound.wav</Source>
+      <Name>ExplosionSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ExplosionSound.xnb</Output>
+      <Time>2013-04-18T15:01:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CoinSound.wav</Source>
+      <Name>CoinSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\CoinSound.xnb</Output>
+      <Time>2013-04-18T15:06:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DoorSound.wav</Source>
+      <Name>DoorSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\DoorSound.xnb</Output>
+      <Time>2013-04-18T15:06:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>burstSound.wav</Source>
+      <Name>burstSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\burstSound.xnb</Output>
+      <Time>2013-04-20T00:23:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Purchase.wav</Source>
+      <Name>Purchase</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Purchase.xnb</Output>
+      <Time>2013-04-20T20:22:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonNoise.wav</Source>
+      <Name>ButtonNoise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\ButtonNoise.xnb</Output>
+      <Time>2013-05-05T16:20:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion2.wav</Source>
+      <Name>Explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Explosion2.xnb</Output>
+      <Time>2013-05-06T16:25:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Laugh.wav</Source>
+      <Name>Laugh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Laugh.xnb</Output>
+      <Time>2013-05-06T16:25:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dead.wav</Source>
+      <Name>Dead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\Dead.xnb</Output>
+      <Time>2013-05-06T17:39:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyDead.wav</Source>
+      <Name>EnemyDead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\EnemyDead.xnb</Output>
+      <Time>2013-05-06T17:39:42-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{14080D53-38D5-438C-9E56-31635012FDC1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-gameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\College\Porfolio\PrisonRush1\GSDIII-game\GSDIII-game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-05T14:00:48.4042421-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

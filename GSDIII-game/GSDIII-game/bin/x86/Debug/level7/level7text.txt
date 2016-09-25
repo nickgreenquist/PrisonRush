@@ -1,0 +1,2 @@
+Do you want to kill that turret, shrink yourself and sneak under the level like a rat? Or are you a man and willing to brave the obstacles ahead?
+This is the second textbox example for the textbox system!

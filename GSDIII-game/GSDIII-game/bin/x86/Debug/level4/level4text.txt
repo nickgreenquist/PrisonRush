@@ -1,0 +1,5 @@
+When you kill an enemy with a gun, you gain a lot of money from them. The sword however, rips apart enemies and they only drop half their usual amount of money!
+Wait! You just picked up a gun! Before you slash that turret with your trusty sword, try shooting it with the left mouse button instead!
+That right there is a button. Stepping on buttons move certain platforms around. Careful though, buttons might move tiles that you cannot see...
+This is the second textbox example for the textbox system!
+test
